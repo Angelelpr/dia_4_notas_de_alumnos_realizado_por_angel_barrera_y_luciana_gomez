@@ -1,0 +1,151 @@
+EEST N1 MUÑIZ - REPORTE DE GESTIÓN PROFESIONAL
+PROFESOR: OMAR ALEJANDRO BAZAR | CURSO: 7° 4°
+SOFTWARE DE CONTROL DE LOS PRODUCT OWNER
+MARCO TEÓRICO: Ludwig von Bertalanffy (TGS)
+FECHA: 2026-10-01 | PRODUCT OWNER: No especificado
+====================================================
+
+>>> EQUIPO 1 | PUNTAJE: 120 pts <<<
+REPO GITHUB: No proporcionado
+ASISTENCIA Y NOVEDADES:
+  - Asistencia completa.
+ESTADO DE CONSIGNAS (TGS / RELEVAMIENTO / SISTEMAS):
+  [GRIS (Sin Evaluar)] Límites y Fronteras (TGS)
+  [GRIS (Sin Evaluar)] Entrada/Proceso/Salida
+  [GRIS (Sin Evaluar)] Módulos y Subsistemas
+  [GRIS (Sin Evaluar)] Control de Entropía (Doc)
+  [GRIS (Sin Evaluar)] Feedback y Validaciones
+  [GRIS (Sin Evaluar)] Diagramas UML
+  [GRIS (Sin Evaluar)] Defensa Oral
+  [GRIS (Sin Evaluar)] Relevamientos
+  [GRIS (Sin Evaluar)] Sistemas
+TAREAS ESPECÍFICAS:
+  [GRIS (Sin Evaluar)] Tarea 1
+  [GRIS (Sin Evaluar)] Tarea 2
+  [GRIS (Sin Evaluar)] Tarea 3
+  [GRIS (Sin Evaluar)] Tarea 4
+  [GRIS (Sin Evaluar)] Tarea 5
+  [GRIS (Sin Evaluar)] Tarea 6
+OBSERVACIONES DEL PO: Sin observaciones
+----------------------------------------------------
+
+>>> EQUIPO 2 | PUNTAJE: 100 pts <<<
+REPO GITHUB: No proporcionado
+ASISTENCIA Y NOVEDADES:
+  - Asistencia completa.
+ESTADO DE CONSIGNAS (TGS / RELEVAMIENTO / SISTEMAS):
+  [GRIS (Sin Evaluar)] Límites y Fronteras (TGS)
+  [GRIS (Sin Evaluar)] Entrada/Proceso/Salida
+  [GRIS (Sin Evaluar)] Módulos y Subsistemas
+  [GRIS (Sin Evaluar)] Control de Entropía (Doc)
+  [GRIS (Sin Evaluar)] Feedback y Validaciones
+  [GRIS (Sin Evaluar)] Diagramas UML
+  [GRIS (Sin Evaluar)] Defensa Oral
+  [GRIS (Sin Evaluar)] Relevamientos
+  [GRIS (Sin Evaluar)] Sistemas
+TAREAS ESPECÍFICAS:
+  [GRIS (Sin Evaluar)] Tarea 1
+  [GRIS (Sin Evaluar)] Tarea 2
+  [GRIS (Sin Evaluar)] Tarea 3
+  [GRIS (Sin Evaluar)] Tarea 4
+  [GRIS (Sin Evaluar)] Tarea 5
+  [GRIS (Sin Evaluar)] Tarea 6
+OBSERVACIONES DEL PO: Sin observaciones
+----------------------------------------------------
+
+>>> EQUIPO 3 | PUNTAJE: 120 pts <<<
+REPO GITHUB: No proporcionado
+ASISTENCIA Y NOVEDADES:
+  - Asistencia completa.
+ESTADO DE CONSIGNAS (TGS / RELEVAMIENTO / SISTEMAS):
+  [GRIS (Sin Evaluar)] Límites y Fronteras (TGS)
+  [GRIS (Sin Evaluar)] Entrada/Proceso/Salida
+  [GRIS (Sin Evaluar)] Módulos y Subsistemas
+  [GRIS (Sin Evaluar)] Control de Entropía (Doc)
+  [GRIS (Sin Evaluar)] Feedback y Validaciones
+  [GRIS (Sin Evaluar)] Diagramas UML
+  [GRIS (Sin Evaluar)] Defensa Oral
+  [GRIS (Sin Evaluar)] Relevamientos
+  [GRIS (Sin Evaluar)] Sistemas
+TAREAS ESPECÍFICAS:
+  [GRIS (Sin Evaluar)] Tarea 1
+  [GRIS (Sin Evaluar)] Tarea 2
+  [GRIS (Sin Evaluar)] Tarea 3
+  [GRIS (Sin Evaluar)] Tarea 4
+  [GRIS (Sin Evaluar)] Tarea 5
+  [GRIS (Sin Evaluar)] Tarea 6
+OBSERVACIONES DEL PO: Sin observaciones
+----------------------------------------------------
+
+>>> EQUIPO 4 | PUNTAJE: 100 pts <<<
+REPO GITHUB: No proporcionado
+ASISTENCIA Y NOVEDADES:
+  - Asistencia completa.
+ESTADO DE CONSIGNAS (TGS / RELEVAMIENTO / SISTEMAS):
+  [GRIS (Sin Evaluar)] Límites y Fronteras (TGS)
+  [GRIS (Sin Evaluar)] Entrada/Proceso/Salida
+  [GRIS (Sin Evaluar)] Módulos y Subsistemas
+  [GRIS (Sin Evaluar)] Control de Entropía (Doc)
+  [GRIS (Sin Evaluar)] Feedback y Validaciones
+  [GRIS (Sin Evaluar)] Diagramas UML
+  [GRIS (Sin Evaluar)] Defensa Oral
+  [GRIS (Sin Evaluar)] Relevamientos
+  [GRIS (Sin Evaluar)] Sistemas
+TAREAS ESPECÍFICAS:
+  [GRIS (Sin Evaluar)] Tarea 1
+  [GRIS (Sin Evaluar)] Tarea 2
+  [GRIS (Sin Evaluar)] Tarea 3
+  [GRIS (Sin Evaluar)] Tarea 4
+  [GRIS (Sin Evaluar)] Tarea 5
+  [GRIS (Sin Evaluar)] Tarea 6
+OBSERVACIONES DEL PO: Sin observaciones
+----------------------------------------------------
+
+>>> EQUIPO 5 | PUNTAJE: 110 pts <<<
+REPO GITHUB: No proporcionado
+ASISTENCIA Y NOVEDADES:
+  - Asistencia completa.
+ESTADO DE CONSIGNAS (TGS / RELEVAMIENTO / SISTEMAS):
+  [GRIS (Sin Evaluar)] Límites y Fronteras (TGS)
+  [GRIS (Sin Evaluar)] Entrada/Proceso/Salida
+  [GRIS (Sin Evaluar)] Módulos y Subsistemas
+  [GRIS (Sin Evaluar)] Control de Entropía (Doc)
+  [GRIS (Sin Evaluar)] Feedback y Validaciones
+  [GRIS (Sin Evaluar)] Diagramas UML
+  [GRIS (Sin Evaluar)] Defensa Oral
+  [GRIS (Sin Evaluar)] Relevamientos
+  [GRIS (Sin Evaluar)] Sistemas
+TAREAS ESPECÍFICAS:
+  [GRIS (Sin Evaluar)] Tarea 1
+  [GRIS (Sin Evaluar)] Tarea 2
+  [GRIS (Sin Evaluar)] Tarea 3
+  [GRIS (Sin Evaluar)] Tarea 4
+  [GRIS (Sin Evaluar)] Tarea 5
+  [GRIS (Sin Evaluar)] Tarea 6
+OBSERVACIONES DEL PO: Sin observaciones
+----------------------------------------------------
+
+>>> EQUIPO 6 | PUNTAJE: 100 pts <<<
+REPO GITHUB: No proporcionado
+ASISTENCIA Y NOVEDADES:
+  - Asistencia completa.
+ESTADO DE CONSIGNAS (TGS / RELEVAMIENTO / SISTEMAS):
+  [GRIS (Sin Evaluar)] Límites y Fronteras (TGS)
+  [GRIS (Sin Evaluar)] Entrada/Proceso/Salida
+  [GRIS (Sin Evaluar)] Módulos y Subsistemas
+  [GRIS (Sin Evaluar)] Control de Entropía (Doc)
+  [GRIS (Sin Evaluar)] Feedback y Validaciones
+  [GRIS (Sin Evaluar)] Diagramas UML
+  [GRIS (Sin Evaluar)] Defensa Oral
+  [GRIS (Sin Evaluar)] Relevamientos
+  [GRIS (Sin Evaluar)] Sistemas
+TAREAS ESPECÍFICAS:
+  [GRIS (Sin Evaluar)] Tarea 1
+  [GRIS (Sin Evaluar)] Tarea 2
+  [GRIS (Sin Evaluar)] Tarea 3
+  [GRIS (Sin Evaluar)] Tarea 4
+  [GRIS (Sin Evaluar)] Tarea 5
+  [GRIS (Sin Evaluar)] Tarea 6
+OBSERVACIONES DEL PO: En este trabajo no hay equipo 6
+----------------------------------------------------
+
